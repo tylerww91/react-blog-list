@@ -8,6 +8,5 @@ export async function getBlogs() {
     name
   )
   `);
-  console.log(resp);
   return checkError(resp);
 }
