@@ -8,6 +8,7 @@ function App() {
     <section className="main">
       <Header />
       {/* add your main component here */}
+      <Main />
       <Footer />
     </section>
   );
